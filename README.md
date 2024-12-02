@@ -1,3 +1,2 @@
 # KaylaKarmanos.github.io
-# Heading 1
-## Heading 2
+# This is placeholder text
