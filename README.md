@@ -3,6 +3,6 @@
 
 ![alt text](assets/images/mountainbackground.png)
 
-[About Statement](about.md)
+# [About Statement](about.md)
 
-[Looking Forward](lookingforward.html)
+# [Looking Forward](lookingforward.html)
