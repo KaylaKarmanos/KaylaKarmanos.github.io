@@ -1,6 +1,6 @@
 # About Statement 📚
 
-### Reflecting on my experience in Introduction to Digital Humanities
+### My journey through an Introduction to Digital Humanities
 
 My motivation to take this class stemmed from a desire to do something “different” while still remaining in the realm of my English major curriculum. Given my complete lack of coding experience and intimidation toward the subject, I was intrigued by this course’s description that no prior experience was needed. My “tech knowledge” consisted of an experience in creating a Weebly website for an 8th grade history project—an assignment I remembered enjoying, especially in terms of creating the layout and design to display my research to the public. Similarly, I found this course to address my passions for both art and humanities, revealing innovative modes of representing data to expand beyond raw numbers and attempt to encapsulate the human experience.
 
