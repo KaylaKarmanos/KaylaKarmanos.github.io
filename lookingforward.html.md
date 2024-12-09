@@ -11,3 +11,4 @@ My first exposure to Digital Humanities has sparked an interest in pursuing more
    
 ### Action Steps
 
+![alt text](IMG_0123.jpeg)
