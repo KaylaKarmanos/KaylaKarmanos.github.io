@@ -1,5 +1,5 @@
 # KaylaKarmanos.github.io
-# Welcome to my page! 🌸
+# Welcome to my page!
 
 ![alt text](assets/images/mountainbackground.png)
 
