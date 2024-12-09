@@ -1,5 +1,7 @@
 # About Statement 📚
 
+![alt text] (assets/images/birmingham-museums-trust-_sn71oyTN4o-unsplash.png)
+
 ## My journey through an Introduction to Digital Humanities
 
 ### Prior Expectations
