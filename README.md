@@ -1,7 +1,7 @@
 # KaylaKarmanos.github.io
 # Welcome to my page!
 
-[alt text](assets/photo-1732058824460-d89cb7b4a38f.avif)
+[alt text](assets/mountainbackground.png)
 
 [About Statement](about.md)
 
