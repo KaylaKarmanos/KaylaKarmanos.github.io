@@ -2,4 +2,5 @@ remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme #
 title: [The Artistry of Data and Technology: A Journey in Digital Humanities]
-description: [Reflecting on my journey in exploring the creativity behind humanities research throughout Fall 2024.]
+title: By Kayla Karmanos
+description: [Reflecting on my exploration of creativity behind humanities research throughout Fall 2024.]
