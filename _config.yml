@@ -1,5 +1,5 @@
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme #
-title: [The Artistry of Data and Technology, A Journey in Digital Humanities]
-description: [Reflecting on my digital humanities work throughout Fall 2024.]
+title: [The Artistry of Data and Technology]
+description: [Reflecting on my digital humanities experience throughout Fall 2024.]
