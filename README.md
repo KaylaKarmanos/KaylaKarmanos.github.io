@@ -1,6 +1,6 @@
 # KaylaKarmanos.github.io
 # Welcome to my page!
 
-[About Page](about.md)
+[About](about.md)
 
-[Looking Forward to Next Steps](lookingforward.html)
+[Looking Forward](lookingforward.html)
