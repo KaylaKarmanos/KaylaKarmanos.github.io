@@ -1,4 +1,4 @@
-# About Statement 📚
+# About 📚
 
 ![alt text](assets/images/birmingham-museums-trust-_sn71oyTN4o-unsplash.png)
 
