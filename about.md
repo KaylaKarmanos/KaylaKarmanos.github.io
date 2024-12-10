@@ -35,11 +35,11 @@ Honing in on Socrates Cantoral’s life was an opportunity to highlight a body o
 
 ### Extracurricular Workshop: Screenprinting at the Tool Library
 
-<img src="assets/images/
+<img src="assets/images/IMG_0142.jpeg" width="50%" alt="alt text">
 
 The assignments to attend workshops at Penn and in the greater Philadelphia area were enjoyable and insightful opportunities to venture beyond my comfort zone and attend something solo while using my hands to engage with technology. My Philly workshop was especially noteworthy—I participated in a screen-printing class at the [West Philly Tool library](https://westphillytools.org/) on a Thursday evening. While I had screen-printed three years prior in a pre-college summer art course, this experience was much different in that we relied on low-budget and improvised tools throughout the process—such as a tupperware bucket, a cheap UV lamp, and a single heat lamp. With few supplies and a small, intimate group of creative-minded individuals, we each took turns and aided each other throughout the process. My time at the Tool Library was highly collaborative and reinforced the concept of people being “printers” before the advent of the modern mechanized printer. 
 
-<img src="assets/images/
+<img src="assets/images/IMG_0136.jpeg" width="50%" alt="alt text">
 
 ### Critical Making Collaboration
 
