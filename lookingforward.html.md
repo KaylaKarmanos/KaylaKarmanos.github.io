@@ -16,4 +16,4 @@ As a passionate artist throughout high school, I compiled my artwork to submit p
   
 ### Attending local Philly workshops
 
-The Philly workshop assignment forced me to go beyond Penn and escape the bubble through a screenprinting class at the West Philly Tool Library. I reveled in the chance to create alongside a group of creative-minded adults, and I feel proud to wear a t-shirt that I designed and screen printed from scratch. The Tool Library  
+The Philly workshop assignment forced me to go beyond Penn and escape the bubble through a screenprinting class at the West Philly Tool Library. I reveled in the chance to spend time with a group of creative-minded adults, and I feel proud to wear a t-shirt I designed and screen printed from scratch. The Tool Library offers a multitude of other interesting classes that I would enjoy--especially sewing machine basics. I have always wanted to learn how to sow and make my own clothes. The Tool library is an affordable, accessible resource I would not have discovered without this assignment.
