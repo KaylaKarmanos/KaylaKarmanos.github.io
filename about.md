@@ -20,7 +20,7 @@ Following weeks of discussion and reading on the ethics, challenges, and functio
 
 <img src="assets/images/IMG_99712.jpeg" width="50%" alt="alt text">
 
-![alt text](assets/images/IMG_9980.jpeg)
+<img src="assets/images/IMG_9980.jpeg" width="50%" alt="alt text">
 
 ### Extracurricular Workshops
 
