@@ -22,7 +22,7 @@ Following weeks of discussion and reading on the ethics, challenges, and functio
 
 Given my love for art, I knew immediately that I wanted to investigate art-making in prison in some capacity as part of my multimedia essay. The colorful graphics of the Eastern Echo printed at Eastern State especially stood out to me—most notably, the vibrant blue cover illustration of the Summer 1965 edition of the publication. With the convenience of our dataset, I was able to locate the image in the spreadsheet, along with the subsequent credits page, which noted the staff illustrator of the edition: “S.R. Cantoral.” 
 
-<img src="assets/images/eastern_echo_summer1965_body0001.jpeg" width="500%" alt="alt text">
+<img src="assets/images/eastern_echo_summer1965_body0001.jpeg" width="50%" alt="alt text">
 
 Searching first through the Printing in Prisons dataset, I located every space where Cantoral was mentioned—discovering him to be an involved individual within the prison community. An avid baseball player, dental employee, artist, and writer, Socrates Cantoral seemed to engage with nearly every program the penitentiary had to offer. When I discovered an article titled “A Profile of Socrates Cantoral,” I knew I’d hit a jackpot—this feature article provided clear insight into Cantoral’s engagements in the prison, his life before Eastern State, and it provided powerful quotes that spoke to his own desire to repent and reform himself under the prison’s 
 
