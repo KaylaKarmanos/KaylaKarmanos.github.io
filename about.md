@@ -16,9 +16,11 @@ Our discussions also often centered around ethical challenges in dealing with da
 
 ### Visit to Eastern State Penitentiary
 
+<img src="assets/images/IMG_9980.jpeg" width="50%" alt="alt text">
+
 Following weeks of discussion and reading on the ethics, challenges, and functions of digital humanities, we had the opportunity to visit Eastern State Penitentiary, prior to conducting research for [Printing in Prisons](printinginprisons.org). This field trip set the stage for our subsequent multimedia essay project by giving me a firsthand account of the visceral experience of existing within the prison. Touring the prison on my own with audio tour headphones helped to encapsulate me in the solitude of the prison’s history and to empathize with the people who spent so much of their lives incarcerated in the space. Seeing the crumbling walls and noting the smell of mildew in the air was an inescapable reminder of the rich history of the prison and the generations of read people who had lived within its confinement. 
 
-<img src="assets/images/IMG_9971 2.jpeg" width="50%" alt="alt text"> <img src="assets/images/IMG_9980.jpeg" width="50%" alt="alt text">
+<img src="assets/images/IMG_9971 2.jpeg" width="50%" alt="alt text"> 
 
 ### Extracurricular Workshops
 
