@@ -27,11 +27,9 @@ Given my love for art, I knew I wanted to investigate art-making in prison in so
 
 Searching through the Printing in Prisons dataset, I located every space where Cantoral’s name appeared, and I discovered that he was an involved individual within the prison community. An avid baseball player, dental employee, artist, and writer, Socrates Cantoral seemed to engage with nearly every program the penitentiary had to offer. When I discovered an article titled “A Profile of Socrates Cantoral,” I knew I’d hit a jackpot. This feature article provided insight into Cantoral’s engagements in the prison and his life before Eastern State. It provided powerful quotes that spoke to his own desire to reclaim himself after his past mistakes. 
 
-<img src="assets/images/
+<img src="assets/images/eastern_echo_summer1965_body0006.jpeg" width="50%" alt="alt text">
 
 Honing in on Socrates Cantoral’s life was an opportunity to highlight a body of beautifully crafted artwork—creations that would not have existed had he not been incarcerated. By neglecting to mention his criminal record, I intentionally spotlighted Cantoral’s creations and commitment to many extracurricular activities at the penitentiary and his good reputation among other prisoners. Dealing with this data required significant care and attention to ethical concerns raised at the beginning of the course. I referred back to my time spent at the prison to help embody Cantoral’s headspace to the best of my ability.
-
-<img src="assets/images/
 
 ### Extracurricular Workshop: Screenprinting at the Tool Library
 
