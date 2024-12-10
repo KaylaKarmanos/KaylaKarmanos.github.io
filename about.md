@@ -45,13 +45,8 @@ The assignments to attend workshops at Penn and in the greater Philadelphia area
 
 I was surprised to find that digital humanities is much broader and more flexible than I expected—this was something especially salient in the midst of our [Critical Making Project](https://docs.google.com/presentation/d/1ugMWW4K39iqshgfNomaZctrOOLxqo7CDgSkNeYDUQSo/edit?usp=sharing), where we had the chance to create a meaningful object as a representation of data from Eastern State. The project was broad and full of possibilities—it felt like an assignment from a fine arts class, but one with a foundation in concrete research. The process of working together to create a laser-cut word count histogram with my group was a lesson in itself—as we built off of each other’s ideas and improvised throughout the actual design process, we watched as our collective thinking morphed into an object charged with meaning.
 
-<img src="assets/images
+<img src="assets/images/histogram.png" width="50%" alt="alt text">
 
 ### Conclusion
 
 My time spent in this Introduction to Digital Humanities course has introduced me to a subject matter I was never aware of—a subject that surprisingly draws on my creative and literary passions. Through hands-on projects and a collaborative class atmosphere, this class overwhelmingly reinforced the humanity of the people represented in data, redefining my relationship and understanding of research and case studies from the past, especially in the context of carceral studies.
-
-
-
-
-
