@@ -4,7 +4,7 @@
 
 ## Actions Steps after my First Exposure to Digital Humanities
 
-My time spent in this class has not only taught me about Digital Humanities but also about available resources on campus and in the greater Philadelphia area. 
+My time spent in this class has not only taught me about Digital Humanities but also about available resources online, on campus, and in the greater Philadelphia area. 
 
 ### Attending Workshops at Education Commons: Embroidery
 
