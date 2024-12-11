@@ -4,9 +4,11 @@
 
 ## Actions Steps after my First Exposure to Digital Humanities
 
+My time spent in this class has not only taught me about Digital Humanities but also about available resources on campus and in the greater Philadelphia area. 
+
 ### Attending Workshops at Education Commons: Embroidery
 
-While researching workshop options to fulfill my workshop assignment, I was excited to see options for embroidery workshops at Education Commons. I have a minimal sowing background and have always wanted to be able to embroider my own clothes by hand. Embroidery is a skill I hoped to master during the pandemic, but which proved much harder to learn on my own. Unfortunately, registration for the class that fit my schedule was full, so I pursued other options to fulfill my Penn workshop requirement.
+While researching workshop options to fulfill my workshop assignment, I was excited to see options for embroidery workshops at Education Commons. I have a minimal hand-sowing background and have always wanted to be able to embroider my own clothes by hand. Embroidery is a skill I hoped to master during the pandemic, but which proved much harder to learn on my own. Unfortunately, registration for the class that fit my schedule was full, so I pursued other options to fulfill my Penn workshop requirement.
 
 Learning the functions of Education Commons' embroidery machines would be a great resource to have; it would help me elevate my clothing or make things for friends and family. I knew nothing of Education Commons prior to this class---now I know I have free access to high-end technology which I can use to make personal projects, whether that's with a laser-cutter, 3D printer, or embroidery machine. It was fascinating to see the ease with which my Critical Making group and I learned how to use the laser-cutter; I hope to feel the same about other machinery in the makerspace which seems so intimidating to me now.
    
@@ -16,4 +18,4 @@ As a passionate artist throughout high school, I compiled my artwork to submit p
   
 ### Attending local Philly workshops
 
-The Philly workshop assignment forced me to go beyond Penn and escape the bubble through a screenprinting class at the West Philly Tool Library. I reveled in the chance to spend time with a group of creative-minded adults, and I feel proud to wear a t-shirt I designed and screen printed from scratch. The Tool Library offers a multitude of other interesting classes that I would enjoy---especially sewing machine basics. I have always wanted to learn how to sow and make my own clothes. The Tool library is an affordable, accessible resource I would not have discovered without this assignment.
+The Philly workshop assignment forced me to go beyond Penn and escape the bubble through a screenprinting class at the West Philly Tool Library. I reveled in the chance to spend time with a group of creative-minded adults, and I feel proud to wear a t-shirt I designed and screen printed from scratch. The Tool Library offers a multitude of other interesting classes that I would enjoy---especially sewing machine basics. I have always wanted to master the sewing machine ever since I made a pillow case with my Home Economics class in seventh grade. The Tool library is an affordable, accessible resource I would not have discovered without this assignment. Going forward, I am subscribed to their email list and will keep an eye out for relevant and exciting workshop opportunities. 
