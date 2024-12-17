@@ -14,7 +14,7 @@ Learning the functions of Education Commons' embroidery machines would be a grea
    
 ### Utilizing Github for Portfolio uses
 
-As a passionate artist throughout high school, I compiled my artwork to submit portfolios for my college applications. However, as I venture more into the professional world, I need to create a professional-looking portfolio site for applications in art-related positions. Github would be a simple and effective platform to create a site for myself. I enjoyed cultivating this Github site using basic markdown syntax---troubleshooting the layout and watching the site come together felt rewarding. I can recognize now that I have some capacity for web design and coding, if not at a base level. Github feels much more accessible that other platforms, and I am intrigued by the idea of learning more about markdown syntax.
+As a passionate artist throughout high school, I compiled my artwork to submit portfolios for my college applications. However, as I venture more into the professional world, I need to create a professional-looking portfolio site for applications in art-related positions. Github would be a simple and effective platform to create a site for myself. I enjoyed cultivating this Github site using basic markdown syntax---troubleshooting the layout and watching the site come together felt rewarding. I can recognize now that I have some capacity for web design and coding, at least at a base level. Github feels much more accessible than other platforms, and I am intrigued by the idea of learning more about markdown syntax.
   
 ### Attending local Philly workshops
 
